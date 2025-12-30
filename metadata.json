@@ -1,0 +1,7 @@
+{
+  "name": "DestinationScanner 2026",
+  "description": "A high-performance travel tracking dashboard for 2026 flight availability, prices, and recommendations. Explore the best countries to visit each month with AI-powered insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
